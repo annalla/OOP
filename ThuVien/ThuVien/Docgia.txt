@@ -1,0 +1,83 @@
+6
+18120001
+Dang Thi Hong Xuyen
+TP HCM
+0
+2
+MS
+18120001
+Dang Thi Hong Xuyen
+3
+1
+ma1
+sach1
+ma2
+sach2
+ma3
+sach3
+20/12/2019
+TS
+18120001
+Dang Thi Hong Xuyen
+3
+1
+ma1
+sach1
+ma2
+sach2
+ma3
+sach3
+20/12/2019
+25/12/2019
+0
+18120002
+Pham Tram
+KTX khu B
+0
+0
+18120003
+Thuy Trang
+Truong KHTN
+0
+0
+18120004
+Ngoc
+KTX
+1
+1
+MS
+18120004
+Ngoc
+1
+0
+ma4
+sach4
+12/12/2019
+18120659
+Xuyen Xuyen
+Ktx khu b
+1
+1
+MS
+18120659
+Xuyen Xuyen
+2
+1
+ma1
+sach1
+ma2
+sach2
+23/12/2019
+18120660
+xuyen
+dc2
+1
+1
+MS
+18120660
+xuyen
+1
+0
+ma1
+sach1
+19/12/2019

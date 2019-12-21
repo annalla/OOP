@@ -1,0 +1,116 @@
+--------------------------------------DOC GIA--------------------------------------------------------------
+So luong doc gia: 6
+----------------------------------------------------------------------------------
+Ma doc gia: 18120001
+Ten doc gia: Dang Thi Hong Xuyen
+Dia Chi doc gia: TP HCM
+Doc gia khong dang muon sach.
+So phieu: 2
+------------------------------------
+1. Phieu Muon sach
+Ma doc gia: 18120001
+Ten doc gia: Dang Thi Hong Xuyen
+So luong Sach muon: 3
+So luong Sach TV muon: 1
+1.----------------------
+Ma sach: ma1
+Ten sach: sach1
+2.----------------------
+Ma sach: ma2
+Ten sach: sach2
+3.----------------------
+Ma sach: ma3
+Ten sach: sach3
+Ngay muon: 20/12/2019
+------------------------------------
+------------------------------------
+2. Phieu Tra sach
+Ma doc gia: 18120001
+Ten doc gia: Dang Thi Hong Xuyen
+So luong Sach muon: 3
+So luong Sach TV muon: 1
+1.----------------------
+Ma sach: ma1
+Ten sach: sach1
+2.----------------------
+Ma sach: ma2
+Ten sach: sach2
+3.----------------------
+Ma sach: ma3
+Ten sach: sach3
+Ngay muon: 20/12/2019
+Ngay tra: 25/12/2019
+Tien phat: 0
+------------------------------------
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+Ma doc gia: 18120002
+Ten doc gia: Pham Tram
+Dia Chi doc gia: KTX khu B
+Doc gia khong dang muon sach.
+So phieu: 0
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+Ma doc gia: 18120003
+Ten doc gia: Thuy Trang
+Dia Chi doc gia: Truong KHTN
+Doc gia khong dang muon sach.
+So phieu: 0
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+Ma doc gia: 18120004
+Ten doc gia: Ngoc
+Dia Chi doc gia: KTX
+Doc gia dang muon sach.
+So phieu: 1
+------------------------------------
+1. Phieu Muon sach
+Ma doc gia: 18120004
+Ten doc gia: Ngoc
+So luong Sach muon: 1
+So luong Sach TV muon: 0
+1.----------------------
+Ma sach: ma4
+Ten sach: sach4
+Ngay muon: 12/12/2019
+------------------------------------
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+Ma doc gia: 18120659
+Ten doc gia: Xuyen Xuyen
+Dia Chi doc gia: Ktx khu b
+Doc gia dang muon sach.
+So phieu: 1
+------------------------------------
+1. Phieu Muon sach
+Ma doc gia: 18120659
+Ten doc gia: Xuyen Xuyen
+So luong Sach muon: 2
+So luong Sach TV muon: 1
+1.----------------------
+Ma sach: ma1
+Ten sach: sach1
+2.----------------------
+Ma sach: ma2
+Ten sach: sach2
+Ngay muon: 23/12/2019
+------------------------------------
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+Ma doc gia: 18120660
+Ten doc gia: xuyen
+Dia Chi doc gia: dc2
+Doc gia dang muon sach.
+So phieu: 1
+------------------------------------
+1. Phieu Muon sach
+Ma doc gia: 18120660
+Ten doc gia: xuyen
+So luong Sach muon: 1
+So luong Sach TV muon: 0
+1.----------------------
+Ma sach: ma1
+Ten sach: sach1
+Ngay muon: 19/12/2019
+------------------------------------
+----------------------------------------------------------------------------------

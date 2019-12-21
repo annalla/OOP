@@ -1,0 +1,39 @@
+6
+TV
+ma1
+sach 1
+tac gia 1
+nxb 1
+12000
+NV
+ma2
+sach2
+tacgia2
+nxb 2
+13000
+isbn1
+TV
+ma3
+sach 3
+tac gia 3
+nxb 3
+15000
+TV
+ma1
+sach 1
+tac gia 1
+nxb 1
+12000
+NV
+ma2
+sach2
+tacgia2
+nxb 2
+13000
+isbn1
+TV
+ma3
+sach 3
+tac gia 3
+nxb 3
+15000

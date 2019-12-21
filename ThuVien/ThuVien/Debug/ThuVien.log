@@ -1,0 +1,39 @@
+﻿  Phieu.cpp
+c:\users\asus\source\repos\thuvien\thuvien\date.h(2): warning C4068: unknown pragma
+  Sach.cpp
+  ThuVien.cpp
+c:\users\asus\source\repos\thuvien\thuvien\date.h(2): warning C4068: unknown pragma
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(51): warning C4101: 'p': unreferenced local variable
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(188): warning C4101: 'p': unreferenced local variable
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(268): warning C4101: 'h': unreferenced local variable
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(351): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(482): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(495): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(468): warning C4101: 'p': unreferenced local variable
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(512): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(545): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(595): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(585): warning C4101: 'choose': unreferenced local variable
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(629): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(667): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(724): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(741): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(753): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\thuvien.cpp(855): warning C4101: 'gia': unreferenced local variable
+  main.cpp
+c:\users\asus\source\repos\thuvien\thuvien\date.h(2): warning C4068: unknown pragma
+c:\users\asus\source\repos\thuvien\thuvien\main.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\source\repos\thuvien\thuvien\main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ThuVien.vcxproj -> C:\Users\asus\source\repos\ThuVien\Debug\ThuVien.exe
